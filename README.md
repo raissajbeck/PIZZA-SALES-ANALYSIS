@@ -27,3 +27,11 @@ Large pizzas were the most frequently purchased size, suggesting that customers 
 * Ensure sufficient inventory for large-sized pizzas during peak demand periods.
 * Bundle best-selling products to increase average order value.
 * Analyze peak ordering times to optimize staffing and operational efficiency.
+
+
+## Dataset Source
+
+Dataset obtained from Kaggle for educational and portfolio purposes.
+
+Source:
+https://www.kaggle.com/datasets/shilongzhuang/pizza-sales
